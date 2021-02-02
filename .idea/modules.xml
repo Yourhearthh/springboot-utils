@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-learn/java-learn.iml" filepath="$PROJECT_DIR$/java-learn/java-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-util/spring-util.iml" filepath="$PROJECT_DIR$/spring-util/spring-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-utils.iml" filepath="$PROJECT_DIR$/.idea/springboot-utils.iml" />
     </modules>

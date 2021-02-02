@@ -58,7 +58,12 @@ public class StrStr {
 
 
     public static void main(String[] args) {
-
+        String a = "hello";
+        String b = "ll";
+        for(int i=0;i<=a.length()-b.length();i++) {
+            String substring = a.substring(i, b.length() + i);
+            System.out.println(substring);
+        }
     }
 
 
