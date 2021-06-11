@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-learn/java-learn.iml" filepath="$PROJECT_DIR$/java-learn/java-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-util/spring-util.iml" filepath="$PROJECT_DIR$/spring-util/spring-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-datasources/springboot-mybatis-datasources.iml" filepath="$PROJECT_DIR$/springboot-mybatis-datasources/springboot-mybatis-datasources.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-utils.iml" filepath="$PROJECT_DIR$/.idea/springboot-utils.iml" />
     </modules>
   </component>
